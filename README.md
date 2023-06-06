@@ -4,8 +4,8 @@ This repository contains the code and projects I have completed while studying t
 
 ## Table of Contents
 
-- [Section 1: Build Your First Flutter App]
-- [Section 2: Flutter Widgets]
+- [Section 1: Build Your First Flutter App](https://github.com/doanthekhoinguyen/Flutter-Tutorials/tree/Section1-HelloFlutter)
+- [Section 2: Everything’s a Widget]
 - [Section 3: Building Layouts]
 - [Section 4: Navigation and Routing]
 - [Section 5: State Management]
@@ -17,8 +17,8 @@ This repository contains the code and projects I have completed while studying t
 
 ## Getting Started
 
-1. Clone this repository: `git clone https://github.com/yourusername/flutter-apprentice-3.0.git`.
-2. Navigate to the specific section you want to explore: `cd section-1`.
+1. Clone this repository: `https://github.com/doanthekhoinguyen/Flutter-Tutorials/`.
+2. Navigate to the specific section you want to explore: 
 3. Follow the instructions provided in each section to run and explore the corresponding Flutter project.
 
 ## Resources
