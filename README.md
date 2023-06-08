@@ -4,9 +4,9 @@ This repository contains the code and projects I have completed while studying t
 
 ## Table of Contents
 
-- [Chapter 1: Build Your First Flutter App](https://github.com/doanthekhoinguyen/Flutter-Tutorials/tree/Section1-HelloFlutter)
-- [Chapter 2: Hello Flutter]
-- [Chapter 3: Basic Widgets]
+- [Chapter 1: Build Your First Flutter App](https://github.com/doanthekhoinguyen/Flutter-Tutorials/tree/Chapter1-HelloFlutter)
+- [Chapter 2: Hello Flutter](https://github.com/doanthekhoinguyen/Flutter-Tutorials/tree/Chapter1-HelloFlutter)
+- [Chapter 3: Basic Widgets](https://github.com/doanthekhoinguyen/Flutter-Tutorials/tree/Chapter3-BasicWidget)
 - [Section 4: Navigation and Routing]
 - [Section 5: State Management]
 - [Section 6: Networking and Web APIs]
