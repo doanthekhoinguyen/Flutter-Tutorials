@@ -17,9 +17,9 @@ This repository contains the code and projects I have completed while studying t
 
 ## Getting Started
 
-1. Clone this repository: `https://github.com/doanthekhoinguyen/Flutter-Tutorials/`.
-2. Navigate to the specific chapter you want to explore: 
-3. Follow the instructions provided in each section to run and explore the corresponding Flutter project.
+1. Navigate to the specific branch you want to explore:
+2. Clone this repository:
+3. Follow the instructions provided in each  chapter to run and explore the corresponding Flutter project.
 
 ## Resources
 
